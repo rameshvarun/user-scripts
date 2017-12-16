@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hacker News - Save to Pinboard
 // @namespace    http://varunramesh.net/
-// @version      0.1
+// @version      0.2
 // @description  Add a "save to pinboard option"
 // @author       Varun Ramesh
 // @match        https://news.ycombinator.com/*
