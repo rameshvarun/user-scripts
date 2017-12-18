@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Pinboard - Youtube Embed
 // @namespace    http://varunramesh.net/
-// @version      0.1
+// @version      0.2
 // @description  Show YouTube embeds in Pinboard links.
 // @author       Varun Ramesh
 // @match        https://pinboard.in/*
