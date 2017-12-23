@@ -1,5 +1,5 @@
 # user-scripts
-User scripts that I use.
+User scripts that I use with Tampermonkey.
 
 ## hacker-news-read-later-pinboard.user.js
 <img src="https://i.imgur.com/mbJdGnj.png"/>
